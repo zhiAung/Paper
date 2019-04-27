@@ -1,4 +1,3 @@
-# Paper
-## Paper note
+# Paper note
 
-One article per day
+## One article per day
